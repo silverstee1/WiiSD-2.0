@@ -22,7 +22,7 @@ The PCB must be ordered (e.g. from jlcpcb) in 0.8mm thickness with surface finis
 
 **WiiSD V2.0 PCB**
 
-**J1:** SD Slot - Digikey Part# 2223-SD-4-BCT-ND
+**J2:** SD Slot - Digikey Part# 2223-SD-4-BCT-ND
 
 LCSC Part# C7529393
 
